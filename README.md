@@ -2,7 +2,7 @@ Save the Kitties!
 ===============================
 
 ### Where to Play
-Play the game [here!](http://tonirib.github.io/frontend-nanodegree-arcade-game)
+Play the game [here!](https://github.com/ririkax/arcade-game.git)
 
 ### Main Objective
 

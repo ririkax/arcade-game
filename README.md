@@ -1,9 +1,6 @@
 Save the Kitties!
 ===============================
 
-### Where to Play
-Play the game [here!](https://github.com/ririkax/arcade-game.git)
-
 ### Main Objective
 
 Get all 5 kitties to their correct colored blocks at the top of the screen.
